@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RomanHrytsko
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Salesforce platform, Apex, Javascript and Python
+- 📫 How to reach me: romangritsko@gmail.com
