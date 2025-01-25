@@ -3,6 +3,6 @@
 
 🔍 Interests: Enterprise architecture, CI/CD automation, API integrations, and advanced Salesforce development.
 
-📚 Currently Expanding Skills In: Salesforce Expereince Cloud, AI-driven automation, and cross-cloud integrations.
+📚 Currently Expanding Skills In: Salesforce Experience Cloud, AI-driven automation, and cross-cloud integrations.
 
 📫 Get in touch: romangritsko@gmail.com
