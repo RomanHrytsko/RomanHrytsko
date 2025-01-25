@@ -1,4 +1,5 @@
 👋 Hi, I’m Roman Hrytsko
+
 🚀 Middle Salesforce Developer with Apex, LWC, JavaScript, and integrations expertise. Passionate about building scalable solutions on the Salesforce platform.
 
 🔍 Interests: Enterprise architecture, CI/CD automation, API integrations, and advanced Salesforce development.
